@@ -1,4 +1,4 @@
-package com.studytracker;
+package com.nexus.studytracker;
 
 import android.app.Activity;
 import android.os.Bundle;
